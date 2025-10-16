@@ -10,7 +10,7 @@
 
 🌱 Atualmente aprimorando minhas habilidades em:
 - Python para análise e visualização de dados  
-- Pandas, NumPy, Matplotlib, Seaborn  
+- Pandas, NumPy 
 - SQL e tratamento de dados  
 - Versionamento com Git e GitHub  
 
